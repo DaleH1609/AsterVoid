@@ -12,10 +12,7 @@ Known bugs/problems:
 The keylogger can sometimes bug out. If I hit an arrow key it causes the ship to continuously go in a direction even if I only hit it once.
 The collision detection can often detect a hit when it doesn't collide with the ship. 
 
-
-Any sources referred to during the development of the assignment (be precise and specific with references) {there no need to reference lecture/lab materials}:
-
-The following links below assisted me with collision detection.
+The following links below assisted me with collision detection:
 
 https://happycoding.io/tutorials/processing/collision-detection#collision-detection-with-moving-objects
 https://happycoding.io/tutorials/processing/collision-detection#rectangle-point-collision
